@@ -29,7 +29,7 @@ export default function App() {
         borderRadius="lg" // Border radius
         boxShadow="xl" // Box shadow
         p="21px" // Padding
-        mt="135px" // Margin-top
+        mt="150px" // Margin-top
         pos="relative" // Position
         mx="auto" // Margin horizontal
       >
