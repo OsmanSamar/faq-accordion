@@ -29,7 +29,8 @@ export default function App() {
         borderRadius="lg" // Border radius
         boxShadow="xl" // Box shadow
         p="21px" // Padding
-        mt={{ base: "200px", md: "100px" }} // Responsive margin-top
+        // mt={{ base: "115px", md: "150px", lg: "220px" }} // Responsive margin-top
+        mt="150px"
         pos="relative" // Position
         mx="auto" // Margin horizontal
       >
